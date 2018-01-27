@@ -1,5 +1,3 @@
-//Count In Leap Year
-//MAKE SETW SMALLER !!!!!
 #include <iostream>
 using namespace std;
 #include "DataRecord.h"
